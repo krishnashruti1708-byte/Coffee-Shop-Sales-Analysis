@@ -1,1 +1,1 @@
-# Project
+This project analyzes transactional data from a coffee shop to uncover sales patterns, customer behavior, and product performance. The dataset captures detailed information about orders, including product categories, pricing, store locations, and time-based attributes.
